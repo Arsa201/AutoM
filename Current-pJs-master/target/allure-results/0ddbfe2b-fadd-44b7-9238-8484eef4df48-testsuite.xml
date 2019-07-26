@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1548853407190" stop="1548853447630" version="1.5.4" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Default Suite : BP2</name>
+    <title>Default Suite : BP2</title>
+    <test-cases>
+        <test-case start="1548853431403" stop="1548853447189" status="passed">
+            <name>goToAccount</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Default Suite"/>
+                <label name="testGroup" value="BP2"/>
+                <label name="testClass" value="Bp_Connection_Stripe_payment_system"/>
+                <label name="testMethod" value="goToAccount"/>
+                <label name="host" value="DESKTOP-CG58KI1"/>
+                <label name="thread" value="3892@DESKTOP-CG58KI1.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1548853447196" stop="1548853447628" status="passed">
+            <name>addNewPaymentSystem</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Default Suite"/>
+                <label name="testGroup" value="BP2"/>
+                <label name="testClass" value="Bp_Connection_Stripe_payment_system"/>
+                <label name="testMethod" value="addNewPaymentSystem"/>
+                <label name="host" value="DESKTOP-CG58KI1"/>
+                <label name="thread" value="3892@DESKTOP-CG58KI1.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1548852661242" stop="1548852701523" version="1.5.4" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Suite : Test for BP_2</name>
+    <title>Suite : Test for BP_2</title>
+    <test-cases>
+        <test-case start="1548852685420" stop="1548852701516" status="passed">
+            <name>goToAccount</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test for BP_2"/>
+                <label name="testClass" value="Bp_Connection_Stripe_payment_system"/>
+                <label name="testMethod" value="goToAccount"/>
+                <label name="host" value="DESKTOP-CG58KI1"/>
+                <label name="thread" value="16404@DESKTOP-CG58KI1.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

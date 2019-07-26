@@ -1,0 +1,21 @@
+# Created at 2019-01-30T15:53:13.422
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+# Created at 2019-01-30T15:53:36.726
+Unexpected IOException with stream: Second: subscribeToYearlyMedium 
+
+
+# Created at 2019-01-30T15:53:36.728
+Unexpected IOException: 6,1,Bp_Plans_test,subscribeToYearlyMedium(Bp_Plans_test),null,null,null
+
+
+# Created at 2019-01-30T15:53:36.731
+Unexpected IOException: 5,1,Bp_Plans_test,sandboxPayPalToYearlyMedium(Bp_Plans_test),Bp_Plans_test,null,null
+
+

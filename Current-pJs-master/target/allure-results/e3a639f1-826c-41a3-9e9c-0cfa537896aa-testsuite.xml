@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1548855312036" stop="1548855391470" version="1.5.4" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Default Suite : BP2</name>
+    <title>Default Suite : BP2</title>
+    <test-cases>
+        <test-case start="1548855336399" stop="1548855352815" status="passed">
+            <name>goToAccount</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Default Suite"/>
+                <label name="testGroup" value="BP2"/>
+                <label name="testClass" value="Bp_Connection_Stripe_payment_system"/>
+                <label name="testMethod" value="goToAccount"/>
+                <label name="host" value="DESKTOP-CG58KI1"/>
+                <label name="thread" value="16684@DESKTOP-CG58KI1.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1548855352823" stop="1548855353253" status="passed">
+            <name>addNewPaymentSystem</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Default Suite"/>
+                <label name="testGroup" value="BP2"/>
+                <label name="testClass" value="Bp_Connection_Stripe_payment_system"/>
+                <label name="testMethod" value="addNewPaymentSystem"/>
+                <label name="host" value="DESKTOP-CG58KI1"/>
+                <label name="thread" value="16684@DESKTOP-CG58KI1.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1548855353256" stop="1548855356517" status="passed">
+            <name>connectStripeBP</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Default Suite"/>
+                <label name="testGroup" value="BP2"/>
+                <label name="testClass" value="Bp_Connection_Stripe_payment_system"/>
+                <label name="testMethod" value="connectStripeBP"/>
+                <label name="host" value="DESKTOP-CG58KI1"/>
+                <label name="thread" value="16684@DESKTOP-CG58KI1.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1548855356520" stop="1548855359493" status="passed">
+            <name>signInWithStripeToConnect</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Default Suite"/>
+                <label name="testGroup" value="BP2"/>
+                <label name="testClass" value="Bp_Connection_Stripe_payment_system"/>
+                <label name="testMethod" value="signInWithStripeToConnect"/>
+                <label name="host" value="DESKTOP-CG58KI1"/>
+                <label name="thread" value="16684@DESKTOP-CG58KI1.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1548855359496" stop="1548855360259" status="passed">
+            <name>signInStripeCredentials</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Default Suite"/>
+                <label name="testGroup" value="BP2"/>
+                <label name="testClass" value="Bp_Connection_Stripe_payment_system"/>
+                <label name="testMethod" value="signInStripeCredentials"/>
+                <label name="host" value="DESKTOP-CG58KI1"/>
+                <label name="thread" value="16684@DESKTOP-CG58KI1.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1548855360262" stop="1548855380322" status="passed">
+            <name>connectMyStripeAccount</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Default Suite"/>
+                <label name="testGroup" value="BP2"/>
+                <label name="testClass" value="Bp_Connection_Stripe_payment_system"/>
+                <label name="testMethod" value="connectMyStripeAccount"/>
+                <label name="host" value="DESKTOP-CG58KI1"/>
+                <label name="thread" value="16684@DESKTOP-CG58KI1.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1548855380325" stop="1548855391468" status="passed">
+            <name>step3ConnectStripeSalesSettings</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Default Suite"/>
+                <label name="testGroup" value="BP2"/>
+                <label name="testClass" value="Bp_Connection_Stripe_payment_system"/>
+                <label name="testMethod" value="step3ConnectStripeSalesSettings"/>
+                <label name="host" value="DESKTOP-CG58KI1"/>
+                <label name="thread" value="16684@DESKTOP-CG58KI1.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

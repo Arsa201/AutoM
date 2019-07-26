@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1548852554409" stop="1548852660995" version="1.5.4" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Suite : Test for BP</name>
+    <title>Suite : Test for BP</title>
+    <test-cases>
+        <test-case start="1548852554424" stop="1548852554429" status="pending">
+            <name>areYouAccountantBookkeeper</name>
+            <failure>
+                <message>Test not implemented yet</message>
+                <stack-trace>There are no stack trace</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="DESKTOP-CG58KI1"/>
+                <label name="thread" value="16404@DESKTOP-CG58KI1.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1548852554430" stop="1548852554430" status="pending">
+            <name>settingsCompany</name>
+            <failure>
+                <message>Test not implemented yet</message>
+                <stack-trace>There are no stack trace</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="DESKTOP-CG58KI1"/>
+                <label name="thread" value="16404@DESKTOP-CG58KI1.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1548852554430" stop="1548852554430" status="pending">
+            <name>toMyProfile</name>
+            <failure>
+                <message>Test not implemented yet</message>
+                <stack-trace>There are no stack trace</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="DESKTOP-CG58KI1"/>
+                <label name="thread" value="16404@DESKTOP-CG58KI1.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1548852554430" stop="1548852554430" status="pending">
+            <name>phoneFieldAssertion</name>
+            <failure>
+                <message>Test not implemented yet</message>
+                <stack-trace>There are no stack trace</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="DESKTOP-CG58KI1"/>
+                <label name="thread" value="16404@DESKTOP-CG58KI1.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1548852554430" stop="1548852554430" status="pending">
+            <name>notifyOffersAndServices</name>
+            <failure>
+                <message>Test not implemented yet</message>
+                <stack-trace>There are no stack trace</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="DESKTOP-CG58KI1"/>
+                <label name="thread" value="16404@DESKTOP-CG58KI1.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1548852554431" stop="1548852554431" status="pending">
+            <name>phoneField</name>
+            <failure>
+                <message>Test not implemented yet</message>
+                <stack-trace>There are no stack trace</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="DESKTOP-CG58KI1"/>
+                <label name="thread" value="16404@DESKTOP-CG58KI1.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1548852554431" stop="1548852554431" status="pending">
+            <name>notifyAboutAppActivities</name>
+            <failure>
+                <message>Test not implemented yet</message>
+                <stack-trace>There are no stack trace</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="DESKTOP-CG58KI1"/>
+                <label name="thread" value="16404@DESKTOP-CG58KI1.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1548852554431" stop="1548852554431" status="pending">
+            <name>toSettingsAccount</name>
+            <failure>
+                <message>Test not implemented yet</message>
+                <stack-trace>There are no stack trace</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="DESKTOP-CG58KI1"/>
+                <label name="thread" value="16404@DESKTOP-CG58KI1.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1548852554479" stop="1548852573505" status="passed">
+            <name>connectYourQuickBooksCompanyStep1</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test for BP"/>
+                <label name="testClass" value="Bp_Company_connection_and_PayPal_payment_system"/>
+                <label name="testMethod" value="connectYourQuickBooksCompanyStep1"/>
+                <label name="host" value="DESKTOP-CG58KI1"/>
+                <label name="thread" value="16404@DESKTOP-CG58KI1.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1548852573517" stop="1548852573631" status="passed">
+            <name>connectYourQuickBooksCompany2</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test for BP"/>
+                <label name="testClass" value="Bp_Company_connection_and_PayPal_payment_system"/>
+                <label name="testMethod" value="connectYourQuickBooksCompany2"/>
+                <label name="host" value="DESKTOP-CG58KI1"/>
+                <label name="thread" value="16404@DESKTOP-CG58KI1.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1548852573633" stop="1548852583947" status="passed">
+            <name>connectYourQuickBooksCompany3</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test for BP"/>
+                <label name="testClass" value="Bp_Company_connection_and_PayPal_payment_system"/>
+                <label name="testMethod" value="connectYourQuickBooksCompany3"/>
+                <label name="host" value="DESKTOP-CG58KI1"/>
+                <label name="thread" value="16404@DESKTOP-CG58KI1.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1548852583950" stop="1548852595381" status="passed">
+            <name>connectYourPayPalSystemStep2</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test for BP"/>
+                <label name="testClass" value="Bp_Company_connection_and_PayPal_payment_system"/>
+                <label name="testMethod" value="connectYourPayPalSystemStep2"/>
+                <label name="host" value="DESKTOP-CG58KI1"/>
+                <label name="thread" value="16404@DESKTOP-CG58KI1.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1548852595383" stop="1548852601675" status="passed">
+            <name>loginInPayPal</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test for BP"/>
+                <label name="testClass" value="Bp_Company_connection_and_PayPal_payment_system"/>
+                <label name="testMethod" value="loginInPayPal"/>
+                <label name="host" value="DESKTOP-CG58KI1"/>
+                <label name="thread" value="16404@DESKTOP-CG58KI1.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1548852601678" stop="1548852613765" status="passed">
+            <name>grantPermission</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test for BP"/>
+                <label name="testClass" value="Bp_Company_connection_and_PayPal_payment_system"/>
+                <label name="testMethod" value="grantPermission"/>
+                <label name="host" value="DESKTOP-CG58KI1"/>
+                <label name="thread" value="16404@DESKTOP-CG58KI1.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1548852613768" stop="1548852625350" status="passed">
+            <name>step3ConnectYourPayPalSystemSalesSettings</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test for BP"/>
+                <label name="testClass" value="Bp_Company_connection_and_PayPal_payment_system"/>
+                <label name="testMethod" value="step3ConnectYourPayPalSystemSalesSettings"/>
+                <label name="host" value="DESKTOP-CG58KI1"/>
+                <label name="thread" value="16404@DESKTOP-CG58KI1.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1548852625354" stop="1548852630225" status="passed">
+            <name>step3ConnectPayPalSystemPaymentMethodFieldSalesSettings</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test for BP"/>
+                <label name="testClass" value="Bp_Company_connection_and_PayPal_payment_system"/>
+                <label name="testMethod" value="step3ConnectPayPalSystemPaymentMethodFieldSalesSettings"/>
+                <label name="host" value="DESKTOP-CG58KI1"/>
+                <label name="thread" value="16404@DESKTOP-CG58KI1.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1548852630228" stop="1548852631677" status="passed">
+            <name>connectPayPalSystemSalesSettingsBackStep</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test for BP"/>
+                <label name="testClass" value="Bp_Company_connection_and_PayPal_payment_system"/>
+                <label name="testMethod" value="connectPayPalSystemSalesSettingsBackStep"/>
+                <label name="host" value="DESKTOP-CG58KI1"/>
+                <label name="thread" value="16404@DESKTOP-CG58KI1.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1548852631679" stop="1548852632955" status="passed">
+            <name>connectPayPalSystemSalesSettingsPaymentMethodFieldBackStep</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test for BP"/>
+                <label name="testClass" value="Bp_Company_connection_and_PayPal_payment_system"/>
+                <label name="testMethod" value="connectPayPalSystemSalesSettingsPaymentMethodFieldBackStep"/>
+                <label name="host" value="DESKTOP-CG58KI1"/>
+                <label name="thread" value="16404@DESKTOP-CG58KI1.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1548852632958" stop="1548852633577" status="passed">
+            <name>step4ConnectPayPalProductSettings</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test for BP"/>
+                <label name="testClass" value="Bp_Company_connection_and_PayPal_payment_system"/>
+                <label name="testMethod" value="step4ConnectPayPalProductSettings"/>
+                <label name="host" value="DESKTOP-CG58KI1"/>
+                <label name="thread" value="16404@DESKTOP-CG58KI1.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1548852633580" stop="1548852634801" status="passed">
+            <name>step4ConnectPayPalProductSettingsIncomeAccount</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test for BP"/>
+                <label name="testClass" value="Bp_Company_connection_and_PayPal_payment_system"/>
+                <label name="testMethod" value="step4ConnectPayPalProductSettingsIncomeAccount"/>
+                <label name="host" value="DESKTOP-CG58KI1"/>
+                <label name="thread" value="16404@DESKTOP-CG58KI1.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1548852634803" stop="1548852635542" status="passed">
+            <name>connectPayPalStep4BackStep</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test for BP"/>
+                <label name="testClass" value="Bp_Company_connection_and_PayPal_payment_system"/>
+                <label name="testMethod" value="connectPayPalStep4BackStep"/>
+                <label name="host" value="DESKTOP-CG58KI1"/>
+                <label name="thread" value="16404@DESKTOP-CG58KI1.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1548852635545" stop="1548852636266" status="passed">
+            <name>connectPayPalSystemIncomeAccountStepBack</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test for BP"/>
+                <label name="testClass" value="Bp_Company_connection_and_PayPal_payment_system"/>
+                <label name="testMethod" value="connectPayPalSystemIncomeAccountStepBack"/>
+                <label name="host" value="DESKTOP-CG58KI1"/>
+                <label name="thread" value="16404@DESKTOP-CG58KI1.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1548852636269" stop="1548852637817" status="passed">
+            <name>connectPayPalSystemApplyTaxesToggle</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test for BP"/>
+                <label name="testClass" value="Bp_Company_connection_and_PayPal_payment_system"/>
+                <label name="testMethod" value="connectPayPalSystemApplyTaxesToggle"/>
+                <label name="host" value="DESKTOP-CG58KI1"/>
+                <label name="thread" value="16404@DESKTOP-CG58KI1.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1548852637820" stop="1548852646904" status="passed">
+            <name>connectPayPalSystemFeeSettingsVendorField</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test for BP"/>
+                <label name="testClass" value="Bp_Company_connection_and_PayPal_payment_system"/>
+                <label name="testMethod" value="connectPayPalSystemFeeSettingsVendorField"/>
+                <label name="host" value="DESKTOP-CG58KI1"/>
+                <label name="thread" value="16404@DESKTOP-CG58KI1.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1548852646907" stop="1548852648441" status="passed">
+            <name>connectPayPalSystemFeeSettingsExpenseLineAccountField</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test for BP"/>
+                <label name="testClass" value="Bp_Company_connection_and_PayPal_payment_system"/>
+                <label name="testMethod" value="connectPayPalSystemFeeSettingsExpenseLineAccountField"/>
+                <label name="host" value="DESKTOP-CG58KI1"/>
+                <label name="thread" value="16404@DESKTOP-CG58KI1.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1548852648443" stop="1548852648974" status="passed">
+            <name>connectPayPalSystemFeeSettingsBankAccountField</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test for BP"/>
+                <label name="testClass" value="Bp_Company_connection_and_PayPal_payment_system"/>
+                <label name="testMethod" value="connectPayPalSystemFeeSettingsBankAccountField"/>
+                <label name="host" value="DESKTOP-CG58KI1"/>
+                <label name="thread" value="16404@DESKTOP-CG58KI1.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1548852648977" stop="1548852649219" status="passed">
+            <name>connectPayPalSystemExpenseSettingsBankCreditAccountField</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test for BP"/>
+                <label name="testClass" value="Bp_Company_connection_and_PayPal_payment_system"/>
+                <label name="testMethod" value="connectPayPalSystemExpenseSettingsBankCreditAccountField"/>
+                <label name="host" value="DESKTOP-CG58KI1"/>
+                <label name="thread" value="16404@DESKTOP-CG58KI1.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1548852649222" stop="1548852651077" status="passed">
+            <name>connectPayPalSystemExpenseSettingsExpenseLineAccountField</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test for BP"/>
+                <label name="testClass" value="Bp_Company_connection_and_PayPal_payment_system"/>
+                <label name="testMethod" value="connectPayPalSystemExpenseSettingsExpenseLineAccountField"/>
+                <label name="host" value="DESKTOP-CG58KI1"/>
+                <label name="thread" value="16404@DESKTOP-CG58KI1.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1548852651080" stop="1548852658320" status="passed">
+            <name>step8ConnectPayPalSystemImportOldTransactions</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test for BP"/>
+                <label name="testClass" value="Bp_Company_connection_and_PayPal_payment_system"/>
+                <label name="testMethod" value="step8ConnectPayPalSystemImportOldTransactions"/>
+                <label name="host" value="DESKTOP-CG58KI1"/>
+                <label name="thread" value="16404@DESKTOP-CG58KI1.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1548852658323" stop="1548852660276" status="passed">
+            <name>finishConnectPayPalSystem</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test for BP"/>
+                <label name="testClass" value="Bp_Company_connection_and_PayPal_payment_system"/>
+                <label name="testMethod" value="finishConnectPayPalSystem"/>
+                <label name="host" value="DESKTOP-CG58KI1"/>
+                <label name="thread" value="16404@DESKTOP-CG58KI1.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
